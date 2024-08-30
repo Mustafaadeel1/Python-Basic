@@ -1,29 +1,30 @@
 print("Hello Github")
 ## variable function
-name = ("my name is 'Mustafa':")
+name = "my name is 'Mustafa':"
 print(name)
-city = ("My city name is 'Sialkot':")
+city = "My city name is 'Sialkot':"
 print(city)
-fr = ("Shaheer ,Ibbi ")
+fr = "Shaheer ,Ibbi "
 print(fr)
-name1 = ("my friend  is 'Donkey':")
+name1 = "my friend  is 'Donkey':"
 print(name)
-city2 = ("My city name is 'Lahore':")
+city2 = "My city name is 'Lahore':"
 print(city)
-fr2 = ("Moeez ,Ashas ")
+fr2 = "Moeez ,Ashas "
 print(fr)
-food =("I love Beef")
+food ="I love Beef"
 print(food)
-sports = ("I love cricket ")
+sports = "I love cricket "
 print(sports)
-role = ("My role in cricket as a fighter or Allrounder")
+role = "My role in cricket as a fighter or Allrounder"
 print(role)
-dream = ("My dream is a profeional AGi devolper ") 
+dream = "My dream is a profeional AGi devolper "
 print(dream)
-countary = (" My favourit counatry is  Pakistan,Canada , ")
-hi = ("Hello Worls")
+countary = " My favourit counatry is  Pakistan,Canada , "
+print(countary)
+hi = "Hello World"
 print(hi)
-er = ("Error is very bad ")
+er = "Error is very bad "
 print(er)
 ## print function
 print("I love Pakistan ")
