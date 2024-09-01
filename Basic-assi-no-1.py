@@ -1,3 +1,9 @@
+# Data Types :
+#First data type is integer in short form we call int = 1,2,3,4,5,6,7,8,9,10 etc.
+#Second data type is string in short form "str" = every value in inverted comas "My name is Mustafa"this is called string 
+#Third data type is Float in short form "float" = 1.1 2.3 9.1 point value 
+#Fourth data type is Boolen in short form "bool" = True or False
+
 print("Hello Github")
 ## variable function
 name = "my name is 'Mustafa':"
@@ -50,8 +56,3 @@ print("I love my family")
 print("I love you")
 print("I am very happy ")
 print("First assignment complete!")
-# Data Types :
-#First data type is integer in short form we call int = 1,2,3,4,5,6,7,8,9,10 etc.
-#Second data type is string in short form "str" = every value in inverted comas "My name is Mustafa"this is called string 
-#Third data type is Float in short form "float" = 1.1 2.3 9.1 point value 
-#Fourth data type is Boolen in short form "bool" = True or False
