@@ -1,4 +1,4 @@
-#Question no 1 = index[] :Forward
+#Question no 1 = index[] :Forward This method start from [0]
 name = "Mustafa"
 print(name[0])
 print(name[1])
@@ -22,7 +22,7 @@ print(jump_value[0:55:4])
 print(jump_value[0:70:5])
 print(jump_value[0:70:6])
 
-#Qustion no 4 = Reverse method 
+#Qustion no 4 = Reverse method This method start from [-1]
 back = "My name is Mustafa , I read in 10th class , My city name is Sialkot , I love my countary "
 print(back[::-1])
 print(back[::-2])
