@@ -1,3 +1,4 @@
+# If , Elif and Else Function:
 i= int (input("Enter your marks:"))
 if (i > 90):
     print("A+")
