@@ -19,4 +19,4 @@ elif (i > 20):
 elif (i > 10):
     print("E")
 else:
-    print("Say you are Fail, Better Luck next time.")                                
+    print("You are Fail, Better Luck next time.")                                
