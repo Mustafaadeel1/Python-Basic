@@ -15,10 +15,10 @@ def add_list():
     print(total)
 
 add_list()
-
-#Reverse all value:"Without using reserve function"
+ 
+#Reverse all value:
 def reverse_list():
     rev_list: list = [1,2,3,4,5,6,7,8,9,10]
-    rev_list.reverse()
-    print(rev_list)
+    rev_2 = rev_list[::-1]
+    print(rev_2)
 reverse_list()    
